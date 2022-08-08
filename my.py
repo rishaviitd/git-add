@@ -1,2 +1,2 @@
-print('git')
-print('print changes')
+name=input()
+print(f"hello     {name}!")
